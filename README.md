@@ -14,7 +14,9 @@ IIN - Impulse Noise Removal
 ![](./figs/fig1.png)   
  
 ## The Denoising Results
-![](./figs/tab1.jpg)   
 The PSNR (dB) results of L1TV, L1L1-DCT, DL-INR and IIN with p = 20%, 30%, 40%, 50%. Red color indicates the best performance and blue color indicates the second.  
+![](./figs/tab1.jpg)   
+
+
 ![](./figs/fig6.png) 
 A visual restoration comparison from noised image of p = 30%.  (a) Reference image, (b) Degraded image, (c-f) denoised results of L1-TV, L1L1-DCT, DL-INR and IIN.
