@@ -1,7 +1,7 @@
 # IIN-Code
 Iterative-scheme Inspired Network for Impulse Noise Removal  
 ## About The Code
-The is a demo Code based on the method described in the following paper:   
+This is a demo Code based on the method described in the following paper:   
 Iterative-scheme Inspired Network for Impulse Noise Removal, Journal of Pattern Analysis and Applications, 2018.  
 Author: M. Zhang, Y. Liu, G. Li, B. Qin, Q. Liu.   
 Date : 11/2018  
