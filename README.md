@@ -2,8 +2,8 @@
 Iterative-scheme Inspired Network for Impulse Noise Removal  
 ## About The Code
 This is a demo Code based on the method described in the following paper:   
-Iterative-scheme Inspired Network for Impulse Noise Removal, Journal of Pattern Analysis and Applications, 2018.  
-Author: M. Zhang, Y. Liu, G. Li, B. Qin, Q. Liu.   
+Iterative-scheme Inspired Network for Impulse Noise Removal, Journal of Pattern Analysis and Applications, 23(1): 135–145, 2020.  
+Author: M. Zhang, Y. Liu, G. Li, B. Qin, Q. Liu.
 Date : 11/2018  
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
