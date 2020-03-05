@@ -8,7 +8,7 @@ Date : 11/2018
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
 Copyright 2018, Department of Electronic Information Engineering, Nanchang University.   
-IIN - Impulse Noise Removal  
+
 
 ## The Framework of IIN
 ![](./figs/fig1.png)   
